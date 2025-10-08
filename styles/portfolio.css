@@ -39,7 +39,7 @@
 }
 /* header styles */
 .header {
-  background-image: URL("/images/developer.png"), URL("/images/header_bg.png");
+  background-image: URL("../images/developer.png"), URL("../images/header_bg.png");
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 }
